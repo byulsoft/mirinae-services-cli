@@ -7,6 +7,10 @@
    4. 쿠버네티스 자원에 대한 로그 지원 [배포 후 디버깅 용이성]
    
    해당 CLI 는 go 언어로 만들었습니다
+   
+   <br>
+   
+   사용법 : https://github.com/soominJung0413/mirinae-services-cli/releases/tag/mirinae
 
 <br><br>
 
