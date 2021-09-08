@@ -31,7 +31,7 @@ mirinae-services-cli 는 `ssh` 가 있어야 동작합니다. mac 환경에서�
 
 ### mirinae-services-cli for window
 ---
-1. https://github.com/soominJung0413/mirinae-services-cli/releases 에 접속하여 .zip 파일을 내려받고 압축을 해제합니다.
+1. https://github.com/byulsoft/mirinae-services-cli/releases 에 접속하여 .zip 파일을 내려받고 압축을 해제합니다.
 
 ![image](https://user-images.githubusercontent.com/67881815/132282632-e6517b74-0b89-4020-bf8d-bc52d4c59a71.png)
 
