@@ -10,7 +10,7 @@
    
    <br>
    
-   사용법 : https://github.com/soominJung0413/mirinae-services-cli/releases/tag/mirinae
+   사용법 : https://github.com/byulsoft/mirinae-services-cli/releases
 
 <br><br>
 
