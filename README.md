@@ -83,7 +83,7 @@ mirinae-services require
 1. go 로 빌드 된 파일인 mirinae-services.exe 를 받습니다. (크기 약 8M) => https://github.com/soominJung0413/mirinae-services-cli/releases
 ```bash
 ## .tar 파일 다운로드
-curl -LO https://github.com/soominJung0413/mirinae-services-cli/releases/download/mirinae/mirinae-services.tar
+curl -LO https://github.com/byulsoft/mirinae-services-cli/releases/download/mirinae/mirinae-services.tar
 
 tar -xvf mirinae-services.tar
 ```
